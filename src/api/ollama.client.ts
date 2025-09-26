@@ -36,7 +36,7 @@ export async function* streamResponse(
       yield json.response;
     }
     if (json.done) {
-      return;
+      break;
     }
   }
 }
