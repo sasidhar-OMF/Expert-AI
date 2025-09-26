@@ -50,8 +50,8 @@ ollama list
 Clone this repository:
 
 ```sh
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/sasidhar-OMF/Expert-AI.git
+cd Expert-AI
 ```
 
 Install dependencies:
@@ -125,3 +125,9 @@ In the VS Code Chat panel:
 
 - The extension streams the response from Ollama.
 - Returns clean, ES6+ code with optional explanations.
+
+
+
+https://github.com/user-attachments/assets/8e3ddeed-a393-49ae-af87-9284c1451879
+
+
