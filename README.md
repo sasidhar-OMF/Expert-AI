@@ -24,7 +24,6 @@ brew install ollama/tap/ollama
 
 ```sh
 ollama --version
-# Should print Ollama 3.1.x
 ```
 
 ---
