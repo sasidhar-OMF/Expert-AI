@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Compiled output
+out/
+dist/
+lib/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VS Code settings
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCE packaging files
+*.vsix
+
+# Optional: coverage reports if using tests
+coverage/
