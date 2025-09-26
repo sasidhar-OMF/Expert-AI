@@ -120,7 +120,7 @@ to interact with the LLM.
 In the VS Code Chat panel:
 
 ```
-@jsHelper Write a function to flatten nested arrays in JavaScript
+@jsHelper write an api using expressjs
 ```
 
 - The extension streams the response from Ollama.
